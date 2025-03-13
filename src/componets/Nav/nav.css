@@ -4,7 +4,7 @@
     align-items: center;
     padding: 1rem 2rem;
     flex-wrap: wrap;
-    background-color: #5c0000;
+    background-color: #333;
     top:0;
     
 }
@@ -14,7 +14,8 @@
     border-radius: 8px;
 }
 .Nav-item:hover{
-    background-color: #f90606;
+    background-color: #f6f2f2;
+    box-shadow: inset 4px 4px 8px rgba(0, 0, 0, 0.6);
     cursor:pointer;
 }
 .Nav-item Link{

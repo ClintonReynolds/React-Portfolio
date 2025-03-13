@@ -12,7 +12,7 @@ const Nav = () => {
                 <Link to="/resume">Resume</Link>
             </li>
             <li className = 'Nav-item'>
-                <Link to="/work">Work</Link>
+                <Link to="/work">Portfolio</Link>
             </li>
             <li className = 'Nav-item'>
                 <Link to="/contact">Contact</Link>

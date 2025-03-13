@@ -7,6 +7,9 @@ import About from './componets/About/index.jsx'
 import Resume from './componets/Resume/index.jsx'
 import Work from './componets/Work/index.jsx'
 import Contact from './componets/Contact/index.jsx'
+
+document.title = 'My Portfolio';
+
 const router = createBrowserRouter(
 [
   {

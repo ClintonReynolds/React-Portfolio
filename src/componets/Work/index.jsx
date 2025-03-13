@@ -5,58 +5,41 @@ import './work.css'
 const previousWorks = [
     {
       id: 1,
-      description: 'Project 1 - E-commerce Website',
-      link: 'https://example.com/project1',
+      description: 'Prework Study Guide',
+      link: 'https://github.com/ClintonReynolds/prework-study-guide.git',
       screenshot: 'https://via.placeholder.com/150',
     },
     {
       id: 2,
-      description: 'Project 2 - Portfolio Website',
-      link: 'https://example.com/project2',
+      description: 'GIFT-EXCHANGE',
+      link: 'https://github.com/JayC-06/GIFT-EXCHANGE-.git',
       screenshot: 'https://via.placeholder.com/150',
     },
     {
       id: 3,
-      description: 'Project 3 - Blogging Platform',
-      link: 'https://example.com/project3',
+      description: 'Weather Dashboard',
+      link: 'https://github.com/ClintonReynolds/weather-dashboard.git',
       screenshot: 'https://via.placeholder.com/150',
     },
     {
       id: 4,
-      description: 'Project 4 - Social Media App',
-      link: 'https://example.com/project4',
+      description: 'README Generator',
+      link: 'https://github.com/ClintonReynolds/readme-generator.git',
       screenshot: 'https://via.placeholder.com/150',
     },
     {
       id: 5,
-      description: 'Project 5 - Online Learning Platform',
-      link: 'https://example.com/project5',
+      description: 'Vehicle Builder',
+      link: 'https://github.com/ClintonReynolds/Vehicle-Builder.git',
       screenshot: 'https://via.placeholder.com/150',
     },
     {
       id: 6,
-      description: 'Project 6 - Real Estate Website',
-      link: 'https://example.com/project6',
+      description: 'Employee Tracker',
+      link: 'https://github.com/ClintonReynolds/Employee-Tracker.git',
       screenshot: 'https://via.placeholder.com/150',
     },
-    {
-      id: 7,
-      description: 'Project 7 - Job Board Platform',
-      link: 'https://example.com/project7',
-      screenshot: 'https://via.placeholder.com/150',
-    },
-    {
-      id: 8,
-      description: 'Project 8 - Event Management App',
-      link: 'https://example.com/project8',
-      screenshot: 'https://via.placeholder.com/150',
-    },
-    {
-      id: 9,
-      description: 'Project 9 - Task Management Tool',
-      link: 'https://example.com/project9',
-      screenshot: 'https://via.placeholder.com/150',
-    },
+    
 ]
 
 const Work = () => {

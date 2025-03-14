@@ -8,7 +8,7 @@ const WorkItem = ({screenshot, description, link}) => {
     <a href={link} target="_blank" rel="noopener noreferrer">
       View Project
     </a>
-  </div>
+    </div>
   )
 }
 

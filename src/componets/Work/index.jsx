@@ -1,7 +1,7 @@
 import React from 'react' 
 import WorkItem from './WorkItem'
 import './work.css'
-
+import pic02 from '../../assets/gift.png'
 const previousWorks = [
     {
       id: 1,
@@ -13,7 +13,7 @@ const previousWorks = [
       id: 2,
       description: 'GIFT-EXCHANGE',
       link: 'https://github.com/JayC-06/GIFT-EXCHANGE-.git',
-      screenshot: 'https://via.placeholder.com/150',
+      screenshot: pic02,
     },
     {
       id: 3,

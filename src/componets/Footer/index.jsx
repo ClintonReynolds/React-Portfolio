@@ -12,8 +12,8 @@ const footer = () => {
         <p>Clinton Reynolds &copy; 2025</p>
         </div>
         <section>
-          <a href="https://www.linkedin.com/in/yourname"><FontAwesomeIcon className ='icon' icon ={faLinkedin}/></a>
-          <a href="github.com/yourname"><FontAwesomeIcon className ='icon' icon ={faGithub}/></a>
+          <a href="https://www.linkedin.com/in/clint-reynolds-906302356/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BEjv6rowIRoiJC28lTESWxw%3D%3D"><FontAwesomeIcon className ='icon' icon ={faLinkedin}/></a>
+          <a href="https://github.com/ClintonReynolds"><FontAwesomeIcon className ='icon' icon ={faGithub}/></a>
         </section>
       </footer>
     </>

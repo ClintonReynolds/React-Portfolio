@@ -7,7 +7,7 @@
     flex-wrap: wrap;
     gap: 1rem;
 }
-.about *>{
+.about > * {
     flex:1;
 }
 .about-content{

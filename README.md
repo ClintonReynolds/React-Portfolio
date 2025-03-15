@@ -65,8 +65,6 @@ You can contact me via:
 
 ## Link Project
 
-Link:
-
 Thank you for visiting my portfolio!
 
 ---
@@ -84,8 +82,3 @@ This `README.md` includes sections on:
 - Contact details
 - Links
 Feel free to adjust the details according to your project and preferences!
-
-
-![Portfolio screenshot](../React-Portfolio/src/assets/screen-shot.jpeg)
-
-

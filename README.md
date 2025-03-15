@@ -71,7 +71,7 @@ Thank you for visiting my portfolio!
 
 ---
 
-Made with ❤️ by Clinton Reynolds
+Made by Clinton Reynolds
 ```
 
 This `README.md` includes sections on:
@@ -86,6 +86,6 @@ This `README.md` includes sections on:
 Feel free to adjust the details according to your project and preferences!
 
 
-![Portfolio screenshot](../React-Portfolio/src/assets/screen-shot.jpeg)
+C:\Users\eastw\bootcamp\challenges\React-Portfolio\src\assets\screen-shot.jpeg
 
 

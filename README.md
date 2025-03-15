@@ -1,4 +1,5 @@
-Here's a simple `README.md` template for a React portfolio:
+
+![Alt text](https://github.com/ClintonReynolds/React-Portfolio/blob/main/screen-shot.jpeg?raw=true)
 
 ```markdown
 # My React Portfolio
@@ -67,18 +68,4 @@ You can contact me via:
 
 Thank you for visiting my portfolio!
 
----
-
-Made with ❤️ by Clinton Reynolds
-```
-
-This `README.md` includes sections on:
-
-- Project overview and features
-- Technologies used
-- Installation instructions
-- Contribution guidelines
-- License info
-- Contact details
-- Links
-Feel free to adjust the details according to your project and preferences!
+Made by Clinton Reynolds

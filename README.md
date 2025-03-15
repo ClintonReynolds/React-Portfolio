@@ -84,3 +84,8 @@ This `README.md` includes sections on:
 - Contact details
 - Links
 Feel free to adjust the details according to your project and preferences!
+
+
+![Portfolio screenshot](../React-Portfolio/src/assets/screen-shot.jpeg)
+
+

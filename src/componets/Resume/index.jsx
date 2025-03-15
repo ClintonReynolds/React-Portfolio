@@ -39,8 +39,8 @@ const Resume = () => {
     
       return (
         <div>
-          <h1>John Doe's Resume</h1>
-          <p>Email: johndoe@example.com</p>
+          <h1>Clinton Reynolds Resume</h1>
+          <p>Email: eastwood188209@gmail.com</p>
           <p>Phone: +1234567890</p>
           <p>Website: www.johndoe.com</p>
     
@@ -52,7 +52,7 @@ const Resume = () => {
             <p>HTML, CSS, MongoDB</p>
     
           <h2>Experience</h2>
-          <p>Software Engineer at XYZ Company (2021 - Present)</p>
+          <p>Software Engineer at XYZ Company (2024 - Present)</p>
             <p>Developed web applications using React and Node.js.</p>
             <p>Implemented responsive design and cross-browser compatibility.</p>
     

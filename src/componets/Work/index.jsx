@@ -1,13 +1,19 @@
 import React from 'react' 
 import WorkItem from './WorkItem'
 import './work.css'
+import pic01 from '../../assets/prework.jpg'
 import pic02 from '../../assets/gift.png'
+import pic03 from '../../assets/wdash.jpg'
+import pic04 from '../../assets/readgen.jpg'
+import pic05 from '../../assets/vbuilder.jpg'
+import pic06 from '../../assets/etracker.png'
+
 const previousWorks = [
     {
       id: 1,
       description: 'Prework Study Guide',
       link: 'https://github.com/ClintonReynolds/prework-study-guide.git',
-      screenshot: 'https://via.placeholder.com/150',
+      screenshot: pic01,
     },
     {
       id: 2,
@@ -19,25 +25,25 @@ const previousWorks = [
       id: 3,
       description: 'Weather Dashboard',
       link: 'https://github.com/ClintonReynolds/weather-dashboard.git',
-      screenshot: 'https://via.placeholder.com/150',
+      screenshot: pic03,
     },
     {
       id: 4,
       description: 'README Generator',
       link: 'https://github.com/ClintonReynolds/readme-generator.git',
-      screenshot: 'https://via.placeholder.com/150',
+      screenshot: pic04,
     },
     {
       id: 5,
       description: 'Vehicle Builder',
       link: 'https://github.com/ClintonReynolds/Vehicle-Builder.git',
-      screenshot: 'https://via.placeholder.com/150',
+      screenshot: pic05,
     },
     {
       id: 6,
       description: 'Employee Tracker',
       link: 'https://github.com/ClintonReynolds/Employee-Tracker.git',
-      screenshot: 'https://via.placeholder.com/150',
+      screenshot: pic06,
     },
     
 ]

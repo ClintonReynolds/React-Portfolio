@@ -7,8 +7,8 @@ const About = () => {
     <div className = "about">
         <section className = "about-content">
             <h1>About</h1>
-            <p>Hi, I'm [Your Name]. I'm a [Your Job Title] based in [Your City]. I have a passion for [Your Passion] and I love to [Your Other Passion]. I'm always looking to learn new things and I'm currently learning [Something You're Learning].</p>
-            <p>When I'm not working, I enjoy [Your Hobbies].</p>
+            <p>Hi, I'm Clinton. I'm a Web Dev based in Orlando. I have a passion for Coding and I love to Design sites. I'm always looking to learn new things and I'm currently learning Web Development.</p>
+            <p>When I'm not working, I enjoy Video games and Football.</p>
         </section>
         <section className = "image-section">
             <div className="image-wrapper">

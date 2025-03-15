@@ -1,5 +1,5 @@
-Here's a simple `README.md` template for a React portfolio:
 
+![Alt text](https://github.com/ClintonReynolds/React-Portfolio/blob/main/screen-shot.jpeg?raw=true)
 ```markdown
 # My React Portfolio
 
@@ -86,6 +86,6 @@ This `README.md` includes sections on:
 Feel free to adjust the details according to your project and preferences!
 
 
-![Alt text](https://github.com/ClintonReynolds/React-Portfolio/blob/main/screen-shot.jpeg?raw=true)
+
 
 

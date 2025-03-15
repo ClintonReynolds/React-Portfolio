@@ -86,6 +86,6 @@ This `README.md` includes sections on:
 Feel free to adjust the details according to your project and preferences!
 
 
-C:\Users\eastw\bootcamp\challenges\React-Portfolio\src\assets\screen-shot.jpeg
+![Alt text](https://github.com/ClintonReynolds/React-Portfolio/blob/main/screen-shot.jpeg?raw=true)
 
 
